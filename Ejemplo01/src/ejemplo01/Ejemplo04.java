@@ -20,3 +20,5 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// El print normal me sirve para presentar nuestras palabras en una sola línea
+// Además, no es como el print ln que da un salto.
