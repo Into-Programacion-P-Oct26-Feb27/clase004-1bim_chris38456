@@ -45,3 +45,5 @@ public class Ejemplo2 {
     }
     
 }
+// El nextline nos ayuda acerca de que Java no se salte líneas
+// Para que comprenda que esa información también hay que guardarla.
